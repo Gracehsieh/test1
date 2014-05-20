@@ -1,0 +1,34 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+
+.container {
+  //background: image-url("Costa_Rican_Frog.jpg") no-repeat;
+  background-size:100% 100%;
+  height: 500em;
+}
+
+.home-speaker {
+  background-image: none;
+  h1 { font-size: 30px; }
+}
+
+.home-news {
+  table {
+    border: 1px solid #66ccff;
+    h1 { color: #ff0000; }
+  }
+  h1 { color: #0000ff; }
+  h3 {}
+}
+
+.home-schedule {
+}
+
+.home-index {
+
+}
+
+
